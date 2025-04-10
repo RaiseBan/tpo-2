@@ -125,7 +125,6 @@ public class FunctionSystemIntegrationTest {
         }
     }
 
-
     @Test
     void testAllComponentsOfSystem() {
         // Проверяем, что все компоненты системы работают правильно
